@@ -7,4 +7,4 @@ Se creará un menú de navegación de forma vertical.
 
 **Menú Vertical :**
 
-![MenuVertical](../assets/img/menuvertical.gif)
+![MenuVertical](https://github.com/NatalyOC/caso-practico-menuvertical/blob/master/assets/img/menuvertical.gif)
